@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Superman",
+    "transaction_date": "2021-01-22",
+    "amount": 46
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-12-12",
+    "amount": 143
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-11-16",
+    "amount": 184
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-11-03",
+    "amount": 106
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-12-31",
+    "amount": 149
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-12-15",
+    "amount": 185
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2021-01-16",
+    "amount": 138
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-12-18",
+    "amount": 65
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2020-12-26",
+    "amount": 127
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2020-12-25",
+    "amount": 112
+  },
+  {
+    "name": "Antman",
+    "transaction_date": "2021-01-28",
+    "amount": 177
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2021-01-11",
+    "amount": 54
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2021-01-26",
+    "amount": 192
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-12-16",
+    "amount": 122
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2021-01-01",
+    "amount": 104
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2021-01-25",
+    "amount": 49
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-12-24",
+    "amount": 192
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2021-01-18",
+    "amount": 125
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-12-03",
+    "amount": 140
+  },
+  {
+    "name": "Antman",
+    "transaction_date": "2021-01-14",
+    "amount": 95
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-12-08",
+    "amount": 161
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2021-01-08",
+    "amount": 163
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-11-27",
+    "amount": 172
+  },
+  {
+    "name": "Antman",
+    "transaction_date": "2020-12-30",
+    "amount": 102
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2021-01-29",
+    "amount": 118
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-12-24",
+    "amount": 170
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-11-27",
+    "amount": 115
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2020-12-18",
+    "amount": 121
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-11-28",
+    "amount": 46
+  },
+  {
+    "name": "Antman",
+    "transaction_date": "2020-12-01",
+    "amount": 144
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-12-18",
+    "amount": 45
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-11-05",
+    "amount": 142
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2021-01-21",
+    "amount": 111
+  },
+  {
+    "name": "Antman",
+    "transaction_date": "2021-01-21",
+    "amount": 71
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-12-30",
+    "amount": 96
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-11-18",
+    "amount": 134
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2021-01-19",
+    "amount": 145
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-12-01",
+    "amount": 146
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-12-27",
+    "amount": 133
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2021-01-11",
+    "amount": 161
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-12-28",
+    "amount": 170
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2020-11-21",
+    "amount": 145
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2021-01-04",
+    "amount": 107
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2021-01-14",
+    "amount": 103
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2020-12-03",
+    "amount": 101
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2020-12-01",
+    "amount": 74
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2020-11-04",
+    "amount": 153
+  },
+  {
+    "name": "Antman",
+    "transaction_date": "2020-12-14",
+    "amount": 99
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2020-11-14",
+    "amount": 92
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2020-12-28",
+    "amount": 62
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2021-01-30",
+    "amount": 94
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2021-01-17",
+    "amount": 165
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-12-02",
+    "amount": 147
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2020-12-31",
+    "amount": 125
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2020-11-27",
+    "amount": 80
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2020-12-15",
+    "amount": 78
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2021-01-25",
+    "amount": 145
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2020-11-04",
+    "amount": 125
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2020-12-31",
+    "amount": 160
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-12-19",
+    "amount": 42
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2021-01-09",
+    "amount": 49
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2021-01-30",
+    "amount": 170
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2020-12-17",
+    "amount": 130
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2021-01-25",
+    "amount": 140
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2020-12-31",
+    "amount": 162
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2021-01-15",
+    "amount": 84
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2020-11-25",
+    "amount": 140
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-12-13",
+    "amount": 159
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2021-01-14",
+    "amount": 43
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-11-28",
+    "amount": 132
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2021-01-13",
+    "amount": 187
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2021-01-25",
+    "amount": 55
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-12-23",
+    "amount": 162
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2020-11-13",
+    "amount": 175
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2021-01-31",
+    "amount": 98
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2021-01-12",
+    "amount": 103
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2021-01-25",
+    "amount": 109
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2021-01-03",
+    "amount": 80
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2021-01-02",
+    "amount": 66
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-12-17",
+    "amount": 149
+  },
+  {
+    "name": "Antman",
+    "transaction_date": "2020-11-27",
+    "amount": 71
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2021-01-21",
+    "amount": 199
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2021-01-23",
+    "amount": 127
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2020-12-18",
+    "amount": 56
+  },
+  {
+    "name": "Antman",
+    "transaction_date": "2020-11-17",
+    "amount": 124
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2020-11-18",
+    "amount": 173
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2021-01-01",
+    "amount": 81
+  },
+  {
+    "name": "Antman",
+    "transaction_date": "2021-01-28",
+    "amount": 91
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2020-12-22",
+    "amount": 97
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-12-21",
+    "amount": 50
+  },
+  {
+    "name": "Spiderman",
+    "transaction_date": "2020-12-05",
+    "amount": 104
+  },
+  {
+    "name": "Ironman",
+    "transaction_date": "2020-11-15",
+    "amount": 120
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-12-24",
+    "amount": 119
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2020-11-16",
+    "amount": 50
+  },
+  {
+    "name": "Antman",
+    "transaction_date": "2020-11-30",
+    "amount": 146
+  },
+  {
+    "name": "Antman",
+    "transaction_date": "2020-11-13",
+    "amount": 66
+  },
+  {
+    "name": "Thor",
+    "transaction_date": "2021-01-18",
+    "amount": 149
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-11-03",
+    "amount": 195
+  },
+  {
+    "name": "Superman",
+    "transaction_date": "2020-12-15",
+    "amount": 100
+  },
+  {
+    "name": "Antman",
+    "transaction_date": "2020-11-21",
+    "amount": 197
+  }
+]
